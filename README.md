@@ -44,4 +44,4 @@ Script
 "build": "parcel build public/index.html"
 ```
 
-Files are generated in a "dist" directory.
+Files are generated in "dist" directory.
